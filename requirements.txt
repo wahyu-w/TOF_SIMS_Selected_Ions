@@ -1,7 +1,7 @@
-numpy
-pandas
-matplotlib
-ipywidgets
-h5py
-scipy
 voila
+ipywidgets
+pandas
+numpy
+matplotlib
+scipy
+h5py
